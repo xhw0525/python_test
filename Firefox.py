@@ -19,6 +19,7 @@ else:
     option.add_argument("--headless")
     browser = webdriver.Firefox(options=option)
 
+
 browser.set_window_size(1000, 800)
 browser.set_page_load_timeout(10)  ##设置超时时间
 
