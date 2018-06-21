@@ -2,11 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7739c536-3fba-4c1f-a12c-4638761d6d63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/python_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CheckImage.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CheckImage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Firefox.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/get_proxy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phantomjs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phantomjs_proxy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/可用代理.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理35.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理41.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理46.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理51.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理52.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理53.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理54.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理56.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理61.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理63.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理64.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理65.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理66.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理67.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理68.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理69.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理70.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理71.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理72.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理73.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理74.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理75.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理76.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理77.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理78.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理79.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理80.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理81.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理82.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理83.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理84.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理85.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理86.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理87.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理88.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理89.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理90.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理91.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理92.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理93.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理94.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理95.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理96.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理97.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理98.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result/所有代理99.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium_自动化.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/normal/Safari.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/normal/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/test/Firefox.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/test/README_WebDriver.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/test/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/test/get_proxy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/test/phantomjs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/test/phantomjs_proxy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/test/selenium_自动化.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/其他脚本测试/MySelenium/test/webdrivers.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/其他脚本测试/__init__.py" afterPath="$PROJECT_DIR$/get_bug_tags/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/其他脚本测试/get_bug_tags/__init__.py" afterPath="$PROJECT_DIR$/selenium/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/其他脚本测试/get_bug_tags/bugtags.sql" afterPath="$PROJECT_DIR$/get_bug_tags/bugtags.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/其他脚本测试/get_bug_tags/db.sqlite3" afterPath="$PROJECT_DIR$/get_bug_tags/db.sqlite3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/其他脚本测试/get_bug_tags/db_my.py" afterPath="$PROJECT_DIR$/get_bug_tags/db_my.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/其他脚本测试/get_bug_tags/get_bugtag.py" afterPath="$PROJECT_DIR$/get_bug_tags/get_bugtag.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/其他脚本测试/get_bug_tags/method.py" afterPath="$PROJECT_DIR$/get_bug_tags/method.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,21 +140,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="selenium_自动化.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium_自动化.py">
+      <file leaf-file-name="Safari.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selenium/Safari.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state relative-caret-position="331">
+              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Firefox.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Firefox.py">
+      <file leaf-file-name="get_proxy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selenium/get_proxy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="1178">
+              <caret line="64" column="17" lean-forward="false" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phantomjs.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/selenium/phantomjs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README_WebDriver.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selenium/README_WebDriver.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Firefox.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selenium/Firefox.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,6 +206,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CheckImage.py" />
+        <option value="$PROJECT_DIR$/selenium/get_proxy.py" />
       </list>
     </option>
   </component>
@@ -66,8 +217,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="540" />
-    <option name="y" value="219" />
+    <option name="x" value="745" />
+    <option name="y" value="134" />
     <option name="width" value="1874" />
     <option name="height" value="942" />
   </component>
@@ -86,6 +237,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,7 +249,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -105,6 +256,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/selenium" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,10 +314,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="540" y="219" width="1874" height="942" extended-state="0" />
-    <editor active="true" />
+    <frame x="745" y="134" width="1874" height="942" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27183408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27729258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -168,7 +324,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905548" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -194,13 +350,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/selenium_自动化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Firefox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_自动化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Firefox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CheckImage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -216,7 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -224,7 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -232,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -240,9 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -250,9 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -260,9 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -270,9 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -280,9 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -290,9 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -302,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -310,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -318,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -326,24 +487,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
-          <folding>
-            <element signature="e#24#33#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium_自动化.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Firefox.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="160">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_自动化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/Firefox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/MySelenium/test/Firefox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/MySelenium/test/phantomjs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/README_WebDriver.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/Safari.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/get_proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="64" column="17" lean-forward="false" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/phantomjs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
