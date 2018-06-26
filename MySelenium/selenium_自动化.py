@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from selenium import webdriver
+from MySelenium import webdriver
 import time
-from selenium.webdriver.support.select import Select
+from MySelenium.webdriver.support.select import Select
 print(time.time())
 
 

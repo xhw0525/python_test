@@ -2,7 +2,7 @@
 import time
 
 import method
-from selenium import webdriver
+from MySelenium import webdriver
 
 print(time.time())
 

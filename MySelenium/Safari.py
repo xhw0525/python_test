@@ -4,7 +4,7 @@ import json
 import time
 # browser = webdriver.PhantomJS('/Users/xhw/PythonV/phantomjs-2.1.1-macosx/bin/phantomjs')
 
-browser = webdriver.Safari()
+browser = webdriver.Safari() #如出错 请下载最新selenium
 
 # browser.set_window_size(1000, 800)
 # browser.set_page_load_timeout(10)  ##设置超时时间
@@ -12,8 +12,8 @@ browser = webdriver.Safari()
 browser.get("http://www.baidu.com")
 
 cookies = browser.get_cookies()
-with open('../../../result/haha.json', 'w+') as file :
-    file.write(json.dumps(cookies,indent=1,sort_keys=True,separators=(',',':')))
+with open('result/haha.json', 'w+') as file :
+    file.write(json.dumps(cookies,indent=2,sort_keys=True,separators=(',',':')))
 # browser.delete_cookie('BD_UPN')
 
 for cookie in cookies:

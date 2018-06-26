@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from selenium import webdriver
+from MySelenium import webdriver
 import time
-from selenium.webdriver.common.proxy import Proxy,ProxyType
+from MySelenium.webdriver.common.proxy import Proxy,ProxyType
 print(time.time())
 
 service_args=[]
